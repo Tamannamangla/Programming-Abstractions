@@ -22,11 +22,13 @@
 | [0071-simplify-path](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
@@ -85,6 +87,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1823-find-the-winner-of-the-circular-game) |
