@@ -36,6 +36,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
 ## Recursion
 |  |
 | ------- |
@@ -82,4 +83,9 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
