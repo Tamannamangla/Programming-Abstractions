@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
@@ -105,4 +106,16 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
