@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
+| [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 | [1046-last-stone-weight](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -47,6 +48,7 @@
 | [0071-simplify-path](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
+| [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
+| [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
+| [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Linked List
 |  |
 | ------- |
