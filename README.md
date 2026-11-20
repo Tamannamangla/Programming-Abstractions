@@ -13,6 +13,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0454-4sum-ii) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 | [1046-last-stone-weight](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1046-last-stone-weight) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -128,6 +129,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,12 +140,15 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
