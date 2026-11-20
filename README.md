@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0046-permutations) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
@@ -126,10 +127,23 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
