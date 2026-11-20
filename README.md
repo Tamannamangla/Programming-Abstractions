@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0454-4sum-ii) |
+| [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
@@ -77,11 +78,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
 | [1046-last-stone-weight](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -112,6 +115,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
