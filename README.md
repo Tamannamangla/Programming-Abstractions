@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0046-permutations) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
