@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
@@ -207,5 +209,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
