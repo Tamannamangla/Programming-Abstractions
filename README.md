@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
@@ -213,4 +215,8 @@
 | [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
