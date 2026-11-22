@@ -20,6 +20,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0454-4sum-ii](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0454-4sum-ii) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Divide and Conquer
 |  |
@@ -222,4 +224,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
