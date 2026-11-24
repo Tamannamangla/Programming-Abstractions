@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
