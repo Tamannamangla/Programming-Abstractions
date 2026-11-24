@@ -79,6 +79,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -144,6 +145,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
