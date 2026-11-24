@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -198,6 +200,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
