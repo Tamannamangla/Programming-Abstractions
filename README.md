@@ -89,6 +89,7 @@
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
@@ -148,6 +149,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 ## Queue
