@@ -27,6 +27,7 @@
 | [0454-4sum-ii](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0454-4sum-ii) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0739-daily-temperatures) |
@@ -103,6 +104,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Divide and Conquer
 |  |
@@ -123,6 +125,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -132,6 +135,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -148,6 +152,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Linked List
 |  |
@@ -171,6 +176,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
