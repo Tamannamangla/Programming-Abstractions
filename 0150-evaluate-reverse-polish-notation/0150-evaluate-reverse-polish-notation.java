@@ -23,7 +23,6 @@ class Solution {
             else{
                 stack.push(Integer.parseInt(token));
             }
-
             }
             return stack.pop();
         }
