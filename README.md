@@ -14,6 +14,7 @@
 | [0056-merge-intervals](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -288,5 +290,10 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
