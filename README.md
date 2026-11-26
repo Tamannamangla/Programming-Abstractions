@@ -28,6 +28,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/1046-last-stone-weight) |
@@ -49,6 +50,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
