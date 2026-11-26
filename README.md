@@ -60,6 +60,7 @@
 | [0155-min-stack](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
@@ -122,6 +123,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
@@ -271,6 +274,7 @@
 | [0015-3sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0295-find-median-from-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -302,4 +306,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
