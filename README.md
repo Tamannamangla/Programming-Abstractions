@@ -200,6 +200,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -212,6 +213,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0841-keys-and-rooms) |
@@ -225,6 +227,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -340,8 +343,17 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0509-fibonacci-number) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
