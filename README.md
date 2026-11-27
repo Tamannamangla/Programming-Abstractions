@@ -53,6 +53,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -84,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0678-valid-parenthesis-string) |
 | [0811-subdomain-visit-count](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0811-subdomain-visit-count) |
 ## Recursion
 |  |
@@ -183,6 +185,7 @@
 | [0502-ipo](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +318,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
