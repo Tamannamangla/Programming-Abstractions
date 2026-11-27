@@ -15,6 +15,7 @@
 | [0057-insert-interval](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -101,6 +102,7 @@
 | [0001-two-sum](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0242-valid-anagram) |
@@ -116,6 +118,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0973-k-closest-points-to-origin) |
@@ -197,6 +200,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0199-binary-tree-right-side-view) |
@@ -226,6 +230,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Tamannamangla/Programming-Abstractions/tree/master/0199-binary-tree-right-side-view) |
